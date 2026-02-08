@@ -1,4 +1,4 @@
-id;provincia_id;provincia_codigo_ine;municipio_codigo_ine;denominacion
+id;municipio_id;provincia_codigo_ine;municipio_codigo_ine;denominacion
 1;1;01;001;Alegría-Dulantzi
 2;1;01;002;Amurrio
 3;1;01;003;Aramaio

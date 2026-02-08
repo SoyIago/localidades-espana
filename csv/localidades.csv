@@ -1,4 +1,4 @@
-id;id_municipio;codigo_ine_provincia;codigo_ine_municipio;codigo_postal;nombre
+id;municipio_id;provincia_codigo_ine;municipio_codigo_ine;codigo_postal;nombre
 1;1;01;001;01193;Eguileta
 2;1;01;001;01240;Alegria-Dulantzi
 3;2;01;002;01450;Baranbio
