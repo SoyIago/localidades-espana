@@ -8,96 +8,96 @@ id;provincia_id;provincia_codigo_ine;municipio_codigo_ine;denominacion
 7;1;01;009;Asparrena
 8;1;01;010;Ayala/Aiara
 9;1;01;011;Baños de Ebro/Mañueta
-10;0;01;013;Barrundia
-11;0;01;014;Berantevilla
-12;0;01;016;Bernedo
-13;0;01;017;Campezo/Kanpezu
-14;0;01;018;Zigoitia
-15;0;01;019;Kripan
-16;0;01;020;Kuartango
-17;0;01;021;Elburgo/Burgelu
-18;0;01;022;Elciego
-19;0;01;023;Elvillar/Bilar
-20;0;01;027;Iruraiz-Gauna
-21;0;01;028;Labastida/Bastida
-22;0;01;030;Lagrán
-23;0;01;031;Laguardia
-24;0;01;032;Lanciego/Lantziego
-25;0;01;033;Lapuebla de Labarca
-26;0;01;034;Leza
-27;0;01;036;Laudio/Llodio
-28;0;01;037;Arraia-Maeztu
-29;0;01;039;Moreda de Álava/Moreda Araba
-30;0;01;041;Navaridas
-31;0;01;042;Okondo
-32;0;01;043;Oyón-Oion
-33;0;01;044;Peñacerrada-Urizaharra
-34;0;01;046;Erriberagoitia/Ribera Alta
-35;0;01;047;Ribera Baja/Erriberabeitia
-36;0;01;049;Añana
-37;0;01;051;Agurain/Salvatierra
-38;0;01;052;Samaniego
-39;0;01;053;San Millán/Donemiliaga
-40;0;01;054;Urkabustaiz
-41;0;01;055;Valdegovía/Gaubea
-42;0;01;056;Harana/Valle de Arana
-43;0;01;057;Villabuena de Álava/Eskuernaga
-44;0;01;058;Legutio
-45;0;01;059;Vitoria-Gasteiz
-46;0;01;060;Yécora/Iekora
-47;0;01;061;Zalduondo
-48;0;01;062;Zambrana
-49;0;01;063;Zuia
-50;0;01;901;Iruña Oka/Iruña de Oca
-51;0;01;902;Lantarón
-52;0;02;001;Abengibre
-53;0;02;002;Alatoz
-54;0;02;003;Albacete
-55;0;02;004;Albatana
-56;0;02;005;Alborea
-57;0;02;006;Alcadozo
-58;0;02;007;Alcalá del Júcar
-59;0;02;008;Alcaraz
-60;0;02;009;Almansa
-61;0;02;010;Alpera
-62;0;02;011;Ayna
-63;0;02;012;Balazote
-64;0;02;013;Balsa de Ves
-65;0;02;014;Ballestero, El
-66;0;02;015;Barrax
-67;0;02;016;Bienservida
-68;0;02;017;Bogarra
-69;0;02;018;Bonete
-70;0;02;019;Bonillo, El
-71;0;02;020;Carcelén
-72;0;02;021;Casas de Juan Núñez
-73;0;02;022;Casas de Lázaro
-74;0;02;023;Casas de Ves
-75;0;02;024;Casas-Ibáñez
-76;0;02;025;Caudete
-77;0;02;026;Cenizate
-78;0;02;027;Corral-Rubio
-79;0;02;028;Cotillas
-80;0;02;029;Chinchilla de Monte-Aragón
-81;0;02;030;Elche de la Sierra
-82;0;02;031;Férez
-83;0;02;032;Fuensanta
-84;0;02;033;Fuente-Álamo
-85;0;02;034;Fuentealbilla
-86;0;02;035;Gineta, La
-87;0;02;036;Golosalvo
-88;0;02;037;Hellín
-89;0;02;038;Herrera, La
-90;0;02;039;Higueruela
-91;0;02;040;Hoya-Gonzalo
-92;0;02;041;Jorquera
-93;0;02;042;Letur
-94;0;02;043;Lezuza
-95;0;02;044;Liétor
-96;0;02;045;Madrigueras
-97;0;02;046;Mahora
-98;0;02;047;Masegoso
-99;0;02;048;Minaya
+10;1;01;013;Barrundia
+11;1;01;014;Berantevilla
+12;1;01;016;Bernedo
+13;1;01;017;Campezo/Kanpezu
+14;1;01;018;Zigoitia
+15;1;01;019;Kripan
+16;1;01;020;Kuartango
+17;1;01;021;Elburgo/Burgelu
+18;1;01;022;Elciego
+19;1;01;023;Elvillar/Bilar
+20;1;01;027;Iruraiz-Gauna
+21;1;01;028;Labastida/Bastida
+22;1;01;030;Lagrán
+23;1;01;031;Laguardia
+24;1;01;032;Lanciego/Lantziego
+25;1;01;033;Lapuebla de Labarca
+26;1;01;034;Leza
+27;1;01;036;Laudio/Llodio
+28;1;01;037;Arraia-Maeztu
+29;1;01;039;Moreda de Álava/Moreda Araba
+30;1;01;041;Navaridas
+31;1;01;042;Okondo
+32;1;01;043;Oyón-Oion
+33;1;01;044;Peñacerrada-Urizaharra
+34;1;01;046;Erriberagoitia/Ribera Alta
+35;1;01;047;Ribera Baja/Erriberabeitia
+36;1;01;049;Añana
+37;1;01;051;Agurain/Salvatierra
+38;1;01;052;Samaniego
+39;1;01;053;San Millán/Donemiliaga
+40;1;01;054;Urkabustaiz
+41;1;01;055;Valdegovía/Gaubea
+42;1;01;056;Harana/Valle de Arana
+43;1;01;057;Villabuena de Álava/Eskuernaga
+44;1;01;058;Legutio
+45;1;01;059;Vitoria-Gasteiz
+46;1;01;060;Yécora/Iekora
+47;1;01;061;Zalduondo
+48;1;01;062;Zambrana
+49;1;01;063;Zuia
+50;1;01;901;Iruña Oka/Iruña de Oca
+51;1;01;902;Lantarón
+52;1;02;001;Abengibre
+53;1;02;002;Alatoz
+54;1;02;003;Albacete
+55;1;02;004;Albatana
+56;1;02;005;Alborea
+57;1;02;006;Alcadozo
+58;1;02;007;Alcalá del Júcar
+59;1;02;008;Alcaraz
+60;1;02;009;Almansa
+61;1;02;010;Alpera
+62;1;02;011;Ayna
+63;1;02;012;Balazote
+64;1;02;013;Balsa de Ves
+65;1;02;014;Ballestero, El
+66;1;02;015;Barrax
+67;1;02;016;Bienservida
+68;1;02;017;Bogarra
+69;1;02;018;Bonete
+70;1;02;019;Bonillo, El
+71;1;02;020;Carcelén
+72;1;02;021;Casas de Juan Núñez
+73;1;02;022;Casas de Lázaro
+74;1;02;023;Casas de Ves
+75;1;02;024;Casas-Ibáñez
+76;1;02;025;Caudete
+77;1;02;026;Cenizate
+78;1;02;027;Corral-Rubio
+79;1;02;028;Cotillas
+80;1;02;029;Chinchilla de Monte-Aragón
+81;1;02;030;Elche de la Sierra
+82;1;02;031;Férez
+83;1;02;032;Fuensanta
+84;1;02;033;Fuente-Álamo
+85;1;02;034;Fuentealbilla
+86;1;02;035;Gineta, La
+87;1;02;036;Golosalvo
+88;1;02;037;Hellín
+89;1;02;038;Herrera, La
+90;1;02;039;Higueruela
+91;1;02;040;Hoya-Gonzalo
+92;1;02;041;Jorquera
+93;1;02;042;Letur
+94;1;02;043;Lezuza
+95;1;02;044;Liétor
+96;1;02;045;Madrigueras
+97;1;02;046;Mahora
+98;1;02;047;Masegoso
+99;1;02;048;Minaya
 100;2;02;049;Molinicos
 101;2;02;050;Montalvos
 102;2;02;051;Montealegre del Castillo
